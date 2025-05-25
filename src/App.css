@@ -1,0 +1,20 @@
+.app-container {
+  text-align: center;
+  font-style:italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 30px;
+  background: #395252;
+  color: #fff;
+  min-height: 100vh;
+}
+
+.cart-toggle {
+  background: #6da9d1;
+  color: white;
+  border: none;
+  padding: 10px 16px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 30px;
+  border-radius: 5px;
+}
